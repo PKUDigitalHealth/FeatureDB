@@ -29,7 +29,7 @@ If you find the idea useful or use this code in your own work, please cite our p
   doi       = {10.22489/CinC.2017.178-245}
 }
 ```
-and
+,
 ```
 @article{hong2019combining,
 	doi = {10.1088/1361-6579/ab15a2},
@@ -45,3 +45,13 @@ and
 	journal = {Physiological Measurement}
 }
 ```
+and
+```
+@article{fan2025detecting,
+  title={Detecting Long QT Syndrome and First-Degree Atrioventricular Block using Single-Lead AI-ECG: A Multi-Center Real-World Study},
+  author={Fan, Sumei and Zhang, Deyun and Wang, Yue and Geng, Shijia and Lu, Kun and Sang, Meng and Xu, Weilun and Wang, Haixue and Zhao, Qinghao and Cheng, Chuandong and others},
+  journal={arXiv preprint arXiv:2502.17499},
+  year={2025}
+}
+```
+
